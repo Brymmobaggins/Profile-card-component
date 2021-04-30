@@ -43,7 +43,7 @@ I learned how to use @keyframes to make transition movement of the circle in the
 
 ### Useful resources
 
-- [Example resource 1](https://Googlefont.com) - This helped me in getting the accurate font for the project. I really liked this pattern and will use it going forward.
+- [Google font](https://Googlefont.com) - This helped me in getting the accurate font for the project. I really liked this pattern and will use it going forward.
 
 ## Author
 
