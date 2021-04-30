@@ -9,8 +9,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution REPO URL: [live] (https://github.com/Brymmobaggins/Profile-card-component.git)
-- Live Site URL:  https://brymmobaggins.github.io/Profile-card-component/
+- Solution REPO URL: [live](https://github.com/Brymmobaggins/Profile-card-component.git)
+- Live Site URL:  [live](https://brymmobaggins.github.io/Profile-card-component/)
 
 
 ### Built with
