@@ -1,9 +1,10 @@
 # Frontend Mentor - Profile card component solution
 
+![Project img!](./img/../images/Profilecardcompnonet_Sreenshot.png)
+
 ## Links
 
 [Live](https://brymmobaggins.github.io/Profile-card-component/)
-
 
 ### Built with
 
@@ -34,13 +35,7 @@ I learned how to use @keyframes to make transition movement of the circle in the
 
 - [Google font](https://Googlefont.com) - This helped me getting the accurate font for the project. I really liked this pattern and will use it going forward.
 
-
 ## Author
 
 - Frontend Mentor - [@Brymmobaggins](https://www.frontendmentor.io/profile/brymmobaggins)
 - Twitter - [@Brymmobaggins](https://www.twitter.com/brymmobaggins)
-
-
-## Screenshot
-
-![Project img!](./img/../images/Profilecardcompnonet_Sreenshot.png)
